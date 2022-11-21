@@ -8,6 +8,7 @@ body {
     padding:10px;
     margin:10px;
     background:lightgray;
+    border-radius: 20px;
     }
 .assignment img {
     width:200px;
